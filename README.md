@@ -1,15 +1,12 @@
-# Z_X Studios Website
+# Z_X Studios website
 
-A responsive static website for Z_X Studios.
+A complete visual redesign with a warm editorial direction, cream/charcoal palette and orange accent. It uses a CSS-built planetary illustration, so no image assets are required.
 
-## Publish with GitHub Pages
-1. Extract this ZIP.
-2. In the `zx-studios-website` GitHub repository, choose **Add file → Upload files**.
-3. Upload `index.html` and `styles.css` to the repository root.
-4. Commit the changes to `main`.
-5. GitHub Pages will redeploy automatically.
+## Publish on GitHub Pages
+1. Download and extract this ZIP.
+2. Open your `zx-studios-website` GitHub repository.
+3. Upload the new `index.html` and `styles.css` to the repository root.
+4. Choose to replace the existing files and commit the changes.
+5. Wait for GitHub Pages to redeploy, then refresh your website.
 
-## Before publishing
-- Replace `contact@zxstudios.example` in `index.html` with an official contact address, or remove the contact button until one is available.
-- The LIFE ONLINE description is intentionally framed as a project in development, not a finished or playable game.
-- Google Fonts are loaded from Google Fonts; if unavailable, local system fallbacks are used.
+The website accurately describes Z_X Studios as an independent development team and LIFE ONLINE as a project in development. It does not invent a company registration, contact email, release date, or completed game features.
