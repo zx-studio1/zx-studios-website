@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zx-studio1.github.io/zx-studios-website/sitemap.xml
